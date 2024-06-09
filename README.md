@@ -1,2 +1,10 @@
-# FRL-WL-V01
-LED white light &amp; 730nm infrared light 8 channel petri dish culture device. CHASECIVIC 2023/2024.
+# Prototype FRL-WL-V01 Light IntensityMeasurement
+LED white light & 730nm infrared light, 8 channel petri dish culture device. 
+
+The measuring equipment is from TAIWAN HIPOINT CORPORATION.
+Light Intensity of FRL (730nm infrared light) is measured using BPFD (350-800nm).
+Light Intensity of WL (white light) is measured using PPFD (400-700nm).
+
+Prototype LED lamp beads are manually pasted, resulting in error amplification.
+
+CHASECIVIC 2023/2024.
