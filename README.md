@@ -1,4 +1,4 @@
-# Prototype FRL-WL-V01 Light IntensityMeasurement
+# FRL-WL-V01 Light Prototype IntensityMeasurement
 LED white light & 730nm infrared light, 8 channel petri dish culture device. 
 
 The measuring equipment is from TAIWAN HIPOINT CORPORATION.
